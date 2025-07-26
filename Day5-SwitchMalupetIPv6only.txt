@@ -330,8 +330,10 @@ AlternatePort/AP = blk port of nonRootPorts
 BackupPort = yuck yuck, suck urself. enter urself, self-service
 
 how becomes RootPort = kanangKamay
-Cost >> Priority >> Number
-
+Cost >> Priority >> Number, lowest cost WINS!
+10G cost -1
+1gig cost = 4
+fae cast = 19
 who is darna: 802.1d
 kabit PC = 30s
 putol trunk, recover =30s, acceptable? BANK,HOst,Pol,Mil
